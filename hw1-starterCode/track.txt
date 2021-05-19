@@ -1,0 +1,5 @@
+3
+splines/rollerCoaster1.sp
+splines/rollerCoaster2.sp
+splines/rollerCoaster3.sp
+

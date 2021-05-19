@@ -1,0 +1,95 @@
+﻿  imageIO.cpp
+  basicPipelineProgram.cpp
+  openGLMatrix.cpp
+  pipelineProgram.cpp
+  hw1.cpp
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(320): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(317): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(318): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(319): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(320): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(337): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(383): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(387): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(388): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(389): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(391): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(392): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(393): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(546): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(547): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(548): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(550): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(551): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(552): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(708): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(711): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(712): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(737): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(782): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(1616): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\st961115\desktop\usc_csci420_hw2_rollercoaster\hw1-startercode\hw1.cpp(1669): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  jpeg.lib(jerror.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+  hw1.vcxproj -> C:\Users\st961115\Desktop\USC_CSCI420_HW2_RollerCoaster\hw1-starterCode\\Bin\Debug\hw1.exe
